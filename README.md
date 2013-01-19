@@ -4,7 +4,7 @@ Very basic Wordpress plugin that allows A/B comparison of 2 audio tags within a 
 
 ## Instructions
 
-* Download the plugin in to your wp-content/plugins directory
+* Download the plugin and unzip to your wp-content/plugins directory
 * Activate plugin via Wordpress admin
 * Include the following elements on your page or post
 
