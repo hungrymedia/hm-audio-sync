@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: HM Audio Sync
-Plugin URI: http://hungry-media.com
+Plugin URI: https://github.com/hungrymedia/hm-audio-sync
 Description: Allows A/B comparison of 2 audio tags within a page or post. See plugin page for details
 Version: 0.1
 Author: Warren Harrison
